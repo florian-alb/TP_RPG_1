@@ -17,7 +17,6 @@ class Player {
     int pl_strength, pl_armor, pl_heal;
     int pl_money;
     vector<Item *> inventory;
-    int max_chest=1, max_weapons=2, max_talisman=1;
 
 public:
     Player(string name, int level, int strength, int armor, int heal, int money);

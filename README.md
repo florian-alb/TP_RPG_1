@@ -13,7 +13,7 @@ pour run :
 ./main
 ```
 
-pour compiler et run sur unix: 
+pour compiler et run sur unix:
 
 ```
 ./run.sh 
